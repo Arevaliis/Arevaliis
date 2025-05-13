@@ -15,7 +15,7 @@ Soy un apasionado de la programación que, tras estudiar **Derecho** y un **Más
 
 ### 💻 Tecnologías y habilidades
 
-- **Lenguajes de programación**: Python, Java, html, SQL.
+- **Lenguajes de programación**: Python, Java, html, CSS, SQL.
 - **Análisis de datos**: Pandas, NumPy, Matplotlib, Seaborn.
 - **Bases de datos**: MySQL.
 - **Herramientas BI**: Power BI.
